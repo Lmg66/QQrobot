@@ -30,3 +30,6 @@
  ```
  plugins/sex_pix
   ```
+
+
+想获得更多好玩的东西可以访问我的博客：https://lmg66.github.io/
