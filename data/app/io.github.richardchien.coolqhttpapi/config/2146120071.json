@@ -1,0 +1,5 @@
+{
+    "ws_reverse_url": "ws://172.18.0.1:6666/ws/",
+    "use_ws_reverse": true,
+    "enable_heartbeat": true
+}
